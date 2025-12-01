@@ -226,8 +226,6 @@ If you found this project helpful, feel free to reach out 😊
 
 ```
 👤 Author: Afsaneh Shamsaddini
-📧 Email: your_email@example.com  
-🌐 GitHub: https://github.com/yourusername
 ```
 
 🚀 *Don’t forget to ⭐ star this repository if you like it!*
