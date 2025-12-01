@@ -200,7 +200,7 @@ Includes:
 ### 📉 2. Grouped Bar Chart (Model Comparison)
 
 ```
-![Performance Bar Chart](https://raw.githubusercontent.com/AfsanehShamsaddini/customer_churn_dataset/main/image/download.png)
+![Performance Bar Chart](image/download.png)
 
 ```
 
