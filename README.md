@@ -200,7 +200,7 @@ Includes:
 ### 📉 2. Grouped Bar Chart (Model Comparison)
 
 ```
-![Performance Bar Chart](image/download.png)
+![Performance Bar Chart](./image/download.png)
 
 ```
 
